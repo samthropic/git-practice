@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article Reflection
+
+[Top A.I. Leaders Call for Slowing Down A.I. Development](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)
+
+## Why I Found It Interesting
+
+I found this article interesting because it demonstrates how the rising concerns of artifical intelligence are finally being acknowledged from leading AI companies such as Anthropic and OpenAI. For years, ex-workers and researchers have been warning society about how the goal of AGI (Artificial General Intellegence) is going to hurt humanity, not help it, contrary to what these companies are advertising. Now, when the goal is finally starting to come to fruition, companies are realizing how AI without guardrails and regulations could turn AI into something harmful and uncontrollable. The main question is: At what point will AI companies decide they have gone far enough? Slowing development may reduce risks in the short term, but in the long term, what will ultimately be the stopping point? Does this incredible technological advancement outweight the harm it has already done in our society?
